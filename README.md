@@ -1,4 +1,4 @@
-# 8814au_raudio
+# Build driver 8814au for rAudio
 
 
 > sudo pacman -Syu
@@ -25,3 +25,6 @@
 >
 > git pull
 > 
+> make
+>
+> sudo make install
