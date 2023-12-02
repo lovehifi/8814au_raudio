@@ -106,8 +106,4 @@ For rtl8832BU and rtl8852BU
 >
 &nbsp;
 >
-For mt7612u 
->
-> git clone https://github.com/morrownr/7612u.git
->
-&nbsp;
+
