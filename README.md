@@ -12,9 +12,11 @@
 > y
 > 
 > sudo pacman -S base-devel
+>
 > y
 >
 > sudo pacman -S git
+>
 > y
 > 
 > git clone https://github.com/morrownr/8814au
