@@ -1,4 +1,4 @@
-# Build driver rtl8814au, rtl8812au, rtl88x2bu, rtl8832BU/rtl8852bu, rtl8821au, rtl8821cu for rAudio
+# Build driver rtl8814au, rtl8812au, rtl8812bu/rtl8822bu, rtl8832BU/rtl8852bu, rtl8821au, rtl8821cu for rAudio
 
 ### #1
 ```
