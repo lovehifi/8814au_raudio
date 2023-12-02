@@ -32,33 +32,38 @@ sudo pacman -S base-devel
 >
 ### #5
 ```
+sudo pacman -S bc
+```
+>
+### #6
+```
 sudo pacman -S git
 ```
 >
 > y
 > 
-### #6
+### #7
 >
 ```
 git clone https://github.com/morrownr/8814au
 ```
-### #7
+### #8
 ```
 cd 8814au
 ```
 >
-### #8
+### #9
 >
 ```
 git pull
 ```
 > 
-### #9
+### #10
 ```
 make
 ```
 >
-### #10
+### #11
 >
 >
 ```
