@@ -90,7 +90,7 @@ For rtl8821au
 >
 For rtl8821cu
 >
-> https://github.com/morrownr/8821cu-20210916.git
+> git clone https://github.com/morrownr/8821cu-20210916.git
 >
 For rtl8832BU and rtl8852BU
 >
