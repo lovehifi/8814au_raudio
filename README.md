@@ -82,8 +82,6 @@ For rtl8812au
 >
 \
 &nbsp;
-\
-&nbsp;
 >
 For rtl88x2bu
 >
