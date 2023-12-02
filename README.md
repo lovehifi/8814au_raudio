@@ -19,20 +19,32 @@ sudo pacman -S linux-rpi-headers
 :: Proceed with installation? [Y/n]
 > y
 > 
-> sudo pacman -S base-devel
+```
+sudo pacman -S base-devel
+```
 >
 > y
 >
-> sudo pacman -S git
+```
+sudo pacman -S git
+```
 >
 > y
 > 
-> git clone https://github.com/morrownr/8814au
+```
+git clone https://github.com/morrownr/8814au
+```
 >
-> cd 8814au
+```
+cd 8814au
+```
 >
-> git pull
+```
+git pull
+```
 > 
-> make
+```
+make
+```
 >
 > sudo make install
