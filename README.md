@@ -4,7 +4,7 @@
 > sudo pacman -Syu
 >
 :: Proceed with installation? [Y/n] n
-> n
+> **n**
 >
 > sudo pacman -S linux-rpi-headers
 >
