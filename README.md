@@ -1,4 +1,4 @@
-# Build driver 8814au for rAudio
+# Build driver 8814au, 8812au, 88x2bu for rAudio
 
 
 ```
@@ -34,7 +34,7 @@ sudo pacman -S git
 ```
 git clone https://github.com/morrownr/8814au
 ```
->
+
 ```
 cd 8814au
 ```
@@ -51,3 +51,15 @@ make
 sudo make install
 ```
 >
+
+-----------
+For rtl8812au
+>
+> git clone https://github.com/morrownr/8812au-20210629.git
+>
+For rtl88x2bu
+>
+> git clone https://github.com/morrownr/88x2bu-20210702.git
+>
+
+
