@@ -81,6 +81,9 @@ For rtl8812au
 > git clone https://github.com/morrownr/8812au-20210629.git
 >
 \
+&nbsp;
+\
+&nbsp;
 >
 For rtl88x2bu
 >
