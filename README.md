@@ -6,7 +6,7 @@ sudo pacman -Syu
 ```
 >
 >
-:: Proceed with installation? [Y/n] n
+:: Proceed with installation? [Y/n]
 > **n**
 >
 ```
