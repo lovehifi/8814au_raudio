@@ -35,6 +35,9 @@ sudo pacman -S base-devel
 sudo pacman -S bc
 ```
 >
+> y
+>
+>
 ### #6
 ```
 sudo pacman -S git
