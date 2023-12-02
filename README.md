@@ -5,19 +5,20 @@
 sudo pacman -Syu
 ```
 >
->
 :: Proceed with installation? [Y/n]
 > **n**
->
-```
-sudo mv -f /usr/lib/modules/6.1.64-2-rpi-ARCH/build /usr/lib/modules/6.1.58-2-rpi-ARCH/
-```
+
 ```
 sudo pacman -S linux-rpi-headers
 ```
 >
 :: Proceed with installation? [Y/n]
 > y
+>
+```
+sudo mv -f /usr/lib/modules/6.1.64-2-rpi-ARCH/build /usr/lib/modules/6.1.58-2-rpi-ARCH/
+```
+
 > 
 ```
 sudo pacman -S base-devel
