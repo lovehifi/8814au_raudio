@@ -1,6 +1,6 @@
 # Build driver 8814au, 8812au, 88x2bu for rAudio
 
-### 1
+### #1
 ```
 sudo pacman -Syu
 ```
@@ -8,7 +8,7 @@ sudo pacman -Syu
 :: Proceed with installation? [Y/n]
 > **n**
 
-### 2
+### #2
 ```
 sudo pacman -S linux-rpi-headers
 ```
@@ -16,13 +16,13 @@ sudo pacman -S linux-rpi-headers
 :: Proceed with installation? [Y/n]
 > y
 >
-### 3
+### #3
 >
 ```
 sudo mv -f /usr/lib/modules/6.1.64-2-rpi-ARCH/build /usr/lib/modules/6.1.58-2-rpi-ARCH/
 ```
 >
-### 4
+### #4
 > 
 ```
 sudo pacman -S base-devel
@@ -30,35 +30,35 @@ sudo pacman -S base-devel
 >
 > y
 >
-### 5
+### #5
 ```
 sudo pacman -S git
 ```
 >
 > y
 > 
-### 6
+### #6
 >
 ```
 git clone https://github.com/morrownr/8814au
 ```
-### 7
+### #7
 ```
 cd 8814au
 ```
 >
-### 8
+### #8
 >
 ```
 git pull
 ```
 > 
-### 9
+### #9
 ```
 make
 ```
 >
-### 10
+### #10
 >
 
 >
@@ -67,7 +67,7 @@ make
 sudo make install
 ```
 >
-### 11
+### #11
 >
 -----------
 For rtl8812au
