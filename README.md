@@ -84,5 +84,11 @@ For rtl88x2bu
 >
 > git clone https://github.com/morrownr/88x2bu-20210702.git
 >
-
+For rtl8821au
+>
+> git clonehttps://github.com/morrownr/8821au-20210708.git
+>
+For rtl8832BU and rtl8852BU
+>
+> git clone https://github.com/morrownr/rtl8852bu.git
 
