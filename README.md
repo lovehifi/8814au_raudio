@@ -60,15 +60,20 @@ make
 >
 ### #10
 >
-
+### #11
+>
 >
 
 ```
 sudo make install
 ```
 >
-### #11
+### #12
 >
+```
+sudo depmod -a 6.1.58-2-rpi-ARCH
+```
+
 -----------
 For rtl8812au
 >
