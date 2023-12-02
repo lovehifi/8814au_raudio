@@ -3,6 +3,7 @@
 
 ```
 sudo pacman -Syu
+```
 >
 >
 :: Proceed with installation? [Y/n] n
