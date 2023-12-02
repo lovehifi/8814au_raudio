@@ -82,7 +82,7 @@ For rtl8812au
 >
 &nbsp;
 >
-For rtl88x2bu
+For rtl8812bu/rtl8822bu
 >
 > git clone https://github.com/morrownr/88x2bu-20210702.git
 >
