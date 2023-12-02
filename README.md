@@ -88,7 +88,15 @@ For rtl8821au
 >
 > git clone https://github.com/morrownr/8821au-20210708.git
 >
+For rtl8821cu
+>
+> https://github.com/morrownr/8821cu-20210916.git
+>
 For rtl8832BU and rtl8852BU
 >
 > git clone https://github.com/morrownr/rtl8852bu.git
-
+>
+For mt7612u 
+>
+> git clone https://github.com/morrownr/7612u.git
+>
