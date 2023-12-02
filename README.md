@@ -1,8 +1,9 @@
 # Build driver 8814au for rAudio
 
 
-``` sudo pacman -Syu
 ```
+sudo pacman -Syu
+>
 >
 :: Proceed with installation? [Y/n] n
 > **n**
